@@ -48,7 +48,7 @@ HTML TAGS
 <del>
 <details>
 <dfn>
-<dialog >
+<dialog>
 <dir>
 <div>
 <dl>
