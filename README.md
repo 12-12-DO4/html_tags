@@ -9,7 +9,7 @@
 ```
 HTML TAGS
 
-< !--...-- >
+< !-- ... -- >
 
 < !DOCTYPE >
 
@@ -42,17 +42,17 @@ HTML TAGS
 < col >
 < colgroup >
 
-<data>
-<datalist>
-<dd>
-<del>
-<details>
-<dfn>
-<dialog >
-<dir>
-<div>
-<dl>
-<dt>
+< data >
+< datalist >
+< dd >
+< del >
+< details >
+< dfn >
+< dialog >
+< dir >
+< div >
+< dl >
+< dt >
 
 < em >
 < embed >
