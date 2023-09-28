@@ -6,149 +6,149 @@
 ![صورة توضيحية](html_tags.jpg "صورة توضيحية")
 
 النص اللى هيتكتب
-``` HTML
+```
 HTML TAGS
 
-<!-...->
+< !-...- >
 
-<!DOCTYPE>
+< !DOCTYPE >
 
-<a>
-<abbr>
-<acronym>
-<address>
-<applet>
-<area>
-<article>
-<aside>
-<audio>
+< a >
+< abbr >
+< acronym >
+< address >
+< applet >
+< area >
+< article >
+< aside >
+< audio >
 
-<b>
-<base>
-<basefont>
-<bdi>
-<bdo>
-<big>
-<blockquote>
-<body>
-<br>
-<button>
+< b >
+< base >
+< basefont >
+< bdi >
+< bdo >
+< big >
+< blockquote >
+< body >
+< br >
+< button >
 
-<canvas>
-<caption>
-<center>
-<cite>
-<code>
-<col>
-<colgroup>
+< canvas >
+< caption >
+< center >
+< cite >
+< code >
+< col >
+< colgroup >
 
-<data>
-<datalist>
-<dd>
-<del>
-<details>
-<dfn>
-<dialog >
-<dir>
-<div>
-<dl>
-<dt>
+< data >
+< datalist >
+< dd >
+< del >
+< details >
+< dfn >
+< dialog >
+< dir >
+< div >
+< dl >
+< dt >
 
-<em>
-<embed>
+< em >
+< embed >
 
-<fieldset>
-<figcaption>
-<figure>
-<font>
-<footer>
-<form>
-<frame>
-<frameset>
+< fieldset >
+< figcaption >
+< figure >
+< font >
+< footer >
+< form >
+< frame >
+< frameset >
 
-<h1> to <h6>
-<head>
-<header>
-<hr>
-<html>
+< h1 > to < h6 >
+< head >
+< header >
+< hr >
+< html >
 
-<i>
-<iframe>
-<img>
-<input>
-<ins>
+< i >
+< iframe >
+< img >
+< input >
+< ins >
 
-<kbd>
+< kbd >
 
-<label>
-<legend>
-<li>
-<link>
+< label >
+< legend >
+< li >
+< link >
 
-<main>
-<map>
-<mark>
-<meta>
-<meter>
+< main >
+< map >
+< mark >
+< meta >
+< meter >
 
-<nav>
-<noframes>
-<noscript>
+< nav >
+< noframes >
+< noscript >
 
-<object>
-<ol>
-<optgroup>
-<option>
-<output>
+< object >
+< ol >
+< optgroup >
+< option >
+< output >
 
-<p>
-<param>
-<picture>
-<pre>
-<progress>
+< p >
+< param >
+< picture >
+< pre >
+< progress >
 
-<q>
+< q >
 
-<rp>
-<rt>
-<ruby>
+< rp >
+< rt >
+< ruby >
 
-<s>
-<samp>
-<script>
-<section>
-<select>
-<small>
-<source>
-<span>
-<strike>
-<strong>
-<style>
-<sub>
-<summary>
-<sup>
-<svg>
+< s >
+< samp >
+< script >
+< section >
+< select >
+< small >
+< source >
+< span >
+< strike >
+< strong >
+< style >
+< sub >
+< summary >
+< sup >
+< svg >
 
 
-<table>
-<tbody>
-<td>
-<template>
-<textarea>
-<tfoot>
-<th>
-<thead>
-<time>
-<title>
-<tr>
-<track>
-<tt>
+< table >
+< tbody >
+< td >
+< template >
+< textarea >
+< tfoot >
+< th >
+< thead >
+< time >
+< title >
+< tr >
+< track >
+< tt >
 
-<u>
-<ul>
+< u >
+< ul >
 
-<var>
-<video>
+< var >
+< video >
 
-<wbr>
+< wbr >
 ```
