@@ -9,7 +9,7 @@
 ``` HTML
 HTML TAGS
 
-<!-...->
+<!--...-->
 
 <!DOCTYPE>
 
