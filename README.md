@@ -9,124 +9,146 @@
 ``` HTML
 HTML TAGS
 
-• <!-...->
-• <cite>
-• <style>
-• <frameset>
-• <object>
-• <h1> to <h6>
-• <ol>
-• <!DOCTYPE>
-• <code>
-• <sub>
-• <a>
-• <head>
-• <summary>
-• <abbr>
-• <col>
-• <colgroup>
-• <data>
-• <header>
-• <optgroup>
-• <option>
-• <output>
-• <sup>
-• <acronym>
-• <hr>
-• <svg>
-• <address>
-• <datalist>
-• <html>
-• <p>
-• <table>
-• <applet>
-• <dd>
-• <i>
-• <param>
-• <picture>
-• <tbody>
-• <td>
-• <area>
-• <del>
-• <iframe>
-• <article>
-• <details>
-• <pre>
-• <template>
-• <img>
-• <input>
-• <aside >
-• <dfn>
-• <progress>
-• <textarea>
-• <audio >
-• <ins>
-• <q>
-• <tfoot>
-• <dialog >
-• <dir>
-• <b>
-• <kbd>
-• <rp>
-• <th>
-• <base>
-• <basefont>
-• <div>
-• <label>
-• <rt>
-• <thead>
-• <dl>
-• <ruby >
-• <time>
-• <legend>
-• <li>
-• <bdi>
-• <dt>
-• ‹s›
-• <title>
-• <bdo>
-• <em>
-• <link>
-• <samp>
-• <tr>
-• <track >
-• <script>
-• <section>
-• <tt>
-• <big>
-• <embed>
-• <main>
-• <blockquote>
-• <fieldset>
-• <map>
-• <body>
-• <figcaption>
-• <mark>
-• <br>
-• <figure>
-• <meta>
-• <button>
-• <font>
-• <meter>
-• <select>
-• <u>
-• <small>
-• <ul>
-• <source>
-• <var>
-• <canvas>
-• <footer>
-• <nav>
-• <video>
-• <span>
-• <strike>
-• <caption>
-• <form>
-• <noframes>
-• <wbr>
-• <center>
-• <frame>
-• <noscript>
-• <strong>
-```
+<!-...->
 
+<!DOCTYPE>
+
+<a>
+<abbr>
+<acronym>
+<address>
+<applet>
+<area>
+<article>
+<aside>
+<audio>
+
+<b>
+<base>
+<basefont>
+<bdi>
+<bdo>
+<big>
+<blockquote>
+<body>
+<br>
+<button>
+
+<canvas>
+<caption>
+<center>
+<cite>
+<code>
+<col>
+<colgroup>
+
+<data>
+<datalist>
+<dd>
+<del>
+<details>
+<dfn>
+<dialog >
+<dir>
+<div>
+<dl>
+<dt>
+
+<em>
+<embed>
+
+<fieldset>
+<figcaption>
+<figure>
+<font>
+<footer>
+<form>
+<frame>
+<frameset>
+
+<h1> to <h6>
+<head>
+<header>
+<hr>
+<html>
+
+<i>
+<iframe>
+<img>
+<input>
+<ins>
+
+<kbd>
+
+<label>
+<legend>
+<li>
+<link>
+
+<main>
+<map>
+<mark>
+<meta>
+<meter>
+
+<nav>
+<noframes>
+<noscript>
+
+<object>
+<ol>
+<optgroup>
+<option>
+<output>
+
+<p>
+<param>
+<picture>
+<pre>
+<progress>
+
+<q>
+
+<rp>
+<rt>
+<ruby>
+
+<s>
+<samp>
+<script>
+<section>
+<select>
+<small>
+<source>
+<span>
+<strike>
+<strong>
+<style>
+<sub>
+<summary>
+<sup>
+<svg>
+
+
+<table>
+<tbody>
+<td>
+<template>
+<textarea>
+<tfoot>
+<th>
+<thead>
+<time>
+<title>
+<tr>
+<track>
+<tt>
+
+<u>
+<ul>
+
+<var>
+<video>
+
+<wbr>
+```
